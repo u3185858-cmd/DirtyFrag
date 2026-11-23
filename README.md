@@ -187,3 +187,4 @@ cannot absorb GPL-3.0-only code**. A GPL-3 reference - the Samsung download-mode
 example - may be read for behaviour, record formats and API naming, and none of its code may be
 copied, translated or linked into this tree. The same rule is written down in
 [docs/d2-download-mode-writer.md](docs/d2-download-mode-writer.md).
+oppo 
